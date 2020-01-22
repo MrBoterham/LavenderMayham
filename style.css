@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+  padding: 10px;
+  border-style:double;
+  border-color:lavender;
+}
+
+
+p {
+  color: white;
+  text-align:center;
+  font-family:monospace;
+  
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+  text-align:center;
+  font-family:monospace;
+}
+
+h4 {
+  font-weight: bold;
+  color: white;
+  text-align:center;
+  font-family:monospace;
+}
+
+a {
+ text-align:center; 
+  color:White;
+  font-family:monospace;
+}
+ol {
+  color: white;
+  text-align:center; 
+  list-style-position: inside;
+  font-family:monospace;
+}
+li {
+  color: white;
+  text-align:center; 
+  font-family:monospace;
+}
+  
+ul {
+  color: white;
+  text-align:center; 
+  list-style-position: inside;
+  font-family:monospace;
+}
