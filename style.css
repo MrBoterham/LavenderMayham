@@ -32,18 +32,21 @@ a {
   color:White;
   font-family:monospace;
 }
+
 ol {
   color: white;
   text-align:center; 
   list-style-position: inside;
   font-family:monospace;
 }
+
 li {
   color: white;
   text-align:center; 
   font-family:monospace;
 }
-.introhead{
+
+.introhead {
   text-align: left;
   border-color: white;
   border: 2px;
@@ -53,16 +56,16 @@ li {
   padding: 3px;
 }
 
-.Intro{
+.Intro {
   border-color: white;
   border: 2px;
   border-style:ridge;
   border-radius: 10px;
   display:inline;
   padding:15px;
-  
-}
-.introbody{
+  }
+
+.introbody {
   text-align:left;
   display:inline;
   padding:15px;
