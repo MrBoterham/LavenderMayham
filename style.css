@@ -4,8 +4,6 @@ body {
   border-style:double;
   border-color:lavender;
 }
-
-
 p {
   color: white;
   text-align:center;
@@ -28,24 +26,23 @@ h4 {
 }
 
 a {
- text-align:center; 
-  color:White;
-  font-family:monospace;
+ text-align: center; 
+  color: White;
+  font-family: monospace;
+  border-color: white;
+  border-radius: 8px;
 }
-
 ol {
   color: white;
   text-align:center; 
   list-style-position: inside;
   font-family:monospace;
 }
-
 li {
   color: white;
   text-align:center; 
   font-family:monospace;
 }
-
 .introhead {
   text-align: left;
   border-color: white;
@@ -55,7 +52,6 @@ li {
   display:inline;
   padding: 3px;
 }
-
 .Intro {
   border-color: white;
   border: 2px;
