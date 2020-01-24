@@ -1,28 +1,28 @@
 body {
   background-color: black;
   padding: 10px;
-  border-style:double;
-  border-color:lavender;
+  border-style: double;
+  border-color: lavender;
 }
 p {
   color: white;
-  text-align:center;
-  font-family:monospace;
+  text-align: center;
+  font-family: monospace;
   
 }
 
 h1 {
   font-weight: bold;
   color: white;
-  text-align:center;
-  font-family:monospace;
+  text-align: center;
+  font-family: monospace;
 }
 
 h4 {
   font-weight: bold;
   color: white;
-  text-align:center;
-  font-family:monospace;
+  text-align: center;
+  font-family: monospace;
 }
 
 a {
@@ -34,43 +34,44 @@ a {
 }
 ol {
   color: white;
-  text-align:center; 
+  text-align: center; 
   list-style-position: inside;
-  font-family:monospace;
+  font-family: monospace;
 }
 li {
   color: white;
-  text-align:center; 
-  font-family:monospace;
+  text-align: center; 
+  font-family: monospace;
 }
 .introhead {
   text-align: left;
   border-color: white;
   border: 2px;
-  border-style:ridge;
+  border-style: ridge;
   border-radius: 10px;
-  display:inline;
+  display: inline;
   padding: 3px;
 }
 .Intro {
   border-color: white;
   border: 2px;
-  border-style:ridge;
+  border-style: ridge;
   border-radius: 10px;
-  display:inline;
-  padding:15px;
-  }
-
-.introbody {
-  text-align:left;
-  display:inline;
-  padding:15px;
-  
+  display: inline;
+  padding: 15px;
 }
-  
+.introbody {
+  text-align: left;
+  display: inline;
+  padding: 15px;  
+}
 ul {
   color: white;
-  text-align:center; 
+  text-align: center; 
   list-style-position: inside;
-  font-family:monospace;
+  font-family: monospace;
+}
+#lordLavender {
+  position: relative; 
+  left: 210px;
 }
