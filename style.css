@@ -78,3 +78,7 @@ ul {
 button{
  border-radius:8px; 
 }
+img.resize {
+    width:100px;
+    height: auto;
+}
