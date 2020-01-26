@@ -52,16 +52,17 @@ li {
   display:inline;
   padding: 3px;
 }
-.Intro {
+.Intro{
   border-color: white;
   border: 2px;
   border-style:ridge;
   border-radius: 10px;
-  display: flex;
-    align-items: center;
-    justify-content: center;
+  align-items: left;
+  justify-content: left;
   padding:15px;
-  }
+  display:inline-table
+  
+}
 
 .introbody {
   text-align:left;
