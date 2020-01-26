@@ -57,7 +57,9 @@ li {
   border: 2px;
   border-style:ridge;
   border-radius: 10px;
-  display:inline;
+  display: flex;
+    align-items: center;
+    justify-content: center;
   padding:15px;
   }
 
